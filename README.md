@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Unity platform, wh
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/11/p_Unity.png)](https://dicer0.com/#skills)
+[![Unity](http://dicer0.com/wp-content/uploads/2023/11/p_Unity.png)](https://dicer0.com/#skills)
